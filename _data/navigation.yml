@@ -11,6 +11,9 @@ main:
 - title: "Home"
   url: /
 
+- title: "Journal"
+  url: /journal/
+
 - title: "Notes"
   url: /notes/
 
