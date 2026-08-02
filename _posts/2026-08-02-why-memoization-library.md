@@ -10,8 +10,6 @@ toc: true
 author_profile: true
 ---
 
-# Why Memoization Library?
-
 안녕하세요.
 
 오늘부터 **Memoization Library**라는 이름으로 개발 기록을 시작합니다.
