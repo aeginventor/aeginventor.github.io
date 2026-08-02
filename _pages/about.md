@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Memoization Library"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -23,7 +23,6 @@ redirect_from:
 - 개발 공부 중 새롭게 배운 내용
 - 오류의 원인과 해결 과정
 - 프로젝트 진행 과정과 회고
-- 알고리즘 문제 해결 기록
 
 ## 최근 기록
 
