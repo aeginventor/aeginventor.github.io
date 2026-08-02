@@ -1,31 +1,11 @@
 ---
-permalink: /
-title: ""
+layout: single
+permalink: /about/
+title: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-## 배우고, 만들고, 기록합니다
+## Contact
 
-안녕하세요. **Memoization Library**에 오신 것을 환영합니다.
-
-이곳은 개발 공부와 프로젝트 경험을 기록하는 개인 블로그입니다.  
-새롭게 배운 개념, 오류를 해결한 과정, 프로젝트를 진행하며 했던 고민을 남깁니다.
-
-컴퓨터 과학에서 메모이제이션은 한 번 계산한 결과를 저장해두었다가 필요할 때 다시 사용하는 방법입니다.
-
-이 블로그도 제가 배운 것과 경험한 것을 저장하고, 미래의 제가 다시 꺼내볼 수 있는 공간으로 만들어가려고 합니다.
-
-## 이곳에 기록하는 것
-
-- 개발 공부 중 새롭게 배운 내용
-- 오류의 원인과 해결 과정
-- 프로젝트 진행 과정과 회고
-
-## 최근 기록
-
-새로운 글을 하나씩 쌓아가고 있습니다.
-
-[블로그 글 보러 가기](/year-archive/)
+- GitHub: [aeginventor](https://github.com/aeginventor)
+- Email: aeginventor@gmail.com
